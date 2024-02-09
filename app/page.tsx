@@ -61,23 +61,8 @@ export default function Home() {
         </h2>
         <ul>
           <li>
-           Project:  <Link
-              target="__blank"
-              className="text-primary-red font-semibold underline"
-              href="https://github.com/theunhackable/pokedex"
-            >
-              Github
-            </Link>
-          </li>
-          <li>
             Created By:{" "}
-            <Link
-              target="__blank"
-              className="text-primary-red font-semibold underline"
-              href="https://srirangasai.dev"
-            >
-              Sri Ranga Sai
-            </Link>
+              Rushikesh Nalawade
           </li>
           <li>
             Special thanks for the team behind this API:{" "}
